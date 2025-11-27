@@ -1,0 +1,15 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+.env/
+.venv/
+
+# VS Code 配置（看你需不需要，settings.json 要不要同步）
+.vscode/
+
+# 其他临时文件
+*.log
+*.tmp
